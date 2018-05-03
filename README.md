@@ -1,5 +1,10 @@
 # PRG -- Ročníkový projekt, 3. ročník
 
+Piškvorky
+
+- Naprogramujte piškvorky v písemném rozhraní
+
+
 1. přepište tento soubor
 1. napište sem název a zadání svého projektu
 1. v souboru [LICENSE](LICENSE) si nastavte licenci
