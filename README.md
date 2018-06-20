@@ -12,3 +12,4 @@ b) Po vypracování zadání (plány do budoucna, postřehy...)
 
 - Program je funkční, avšak není ideálně napsaný, plánem do budoucna by tedy mohlo být program upravit.
 - Úkol byl pro mě docela dosti složitý, ačkoli to na první pohled vypadalo jako snazší zadání.
+- Upravit program tak, aby bylo možné vyhrát.
